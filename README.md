@@ -8,7 +8,6 @@ ProVerif scripts and verification results for the registration and authenticatio
 **A Secure Authentication Mechanism for Federated Metaverses Using Non-Fungible Tokens (NFTs)**
 <br>
 Mohammed Shakib Hossain, Khawaja Ehsun Ul Hawak, Mutasin Jawad, Md Yeasin Ali, Sagar Karmoker, Masum Alam Nahid, Hossain Shahriar, Md Sadek Ferdous
-<br>
 *IEEE Blockchain 2026 (IEEE Cybermatics Congress 2026)*
 
 ---
